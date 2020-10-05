@@ -14,3 +14,4 @@ All the files are public content.
 
 - **[Apple Design Resources](https://developer.apple.com/design/resources/)** - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources.
 - **[Google Design Resources](https://design.google)** - Google Design is a cooperative effort led by a group of designers, writers, and developers at Google
+- **[Microsoft Design Resouces](https://www.microsoft.com/design/)** - How Microsoft designers create epic onstage experiences for the biggest moments in tech.
