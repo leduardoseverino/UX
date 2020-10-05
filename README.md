@@ -10,5 +10,5 @@ I am a Sênior UX Design and I creat with Adobe XD, Overflow, Photoshop and Illu
 
 ## Links
 
-• **[Apple Design Resources](https://developer.apple.com/design/resources/)** 
+• **[Apple Design Resources](https://developer.apple.com/design/resources/)** - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources.
 
