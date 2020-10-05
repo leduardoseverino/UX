@@ -10,5 +10,5 @@ I am a Sênior UX Design and I create with Adobe XD, Overflow, Photoshop and Ill
 
 ## Links
 
-• **[Apple Design Resources](https://developer.apple.com/design/resources/)** - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources.
-• **[Google Design Resources](https://design.google)** - Google Design is a cooperative effort led by a group of designers, writers, and developers at Google
+- **[Apple Design Resources](https://developer.apple.com/design/resources/)** - Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources.
+- **[Google Design Resources](https://design.google)** - Google Design is a cooperative effort led by a group of designers, writers, and developers at Google
