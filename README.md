@@ -1,4 +1,4 @@
-## UX Brazil
+## UX
 
 ### Welcome to my GitHub repo folks!!!
 
